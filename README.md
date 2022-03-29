@@ -1,8 +1,11 @@
 # InterviewPrep
 How to get back to Software Developer career path
 
+Track your progess, solve 2-3 questions everyday.
+
 1. Learn about system design:
     https://www.educative.io/courses/grokking-the-system-design-interview/B8nMkqBWONo
+    read various blog posts and medium articles on system design.
     api rate limiter system design
 2. http://highscalability.com/
 3. python coding:
